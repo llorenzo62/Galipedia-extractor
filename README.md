@@ -21,7 +21,7 @@ I work with the latest stable version of spacy in a virtual environment. In this
 Current results. Also the word vectors trained with __floret__ on the set of sentences extracted from Galipedia (about 50 M words) and prepared for use in both floret and default spacy models (in their Spanish and Portuguese variants).
 
 ## dataset
-Current corpus of tagged sentences (POS and lemmas) for training and a zip file with the articles and raw sentences extracted from Galipedia.
+Current corpus of tagged sentences (POS and lemmas) for training.
 
 ## verify
 Current corpus of labeled sentences (POS and lemma) to test for accuracy. For the model implemented in _Model_, __gl_lg__ is about 95% for POS labeling and about 93% for lemmatization.
